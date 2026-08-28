@@ -22,15 +22,15 @@
 
 ### 立场
 
-- 人民史观，一切源于人民，大多数人即日常，日常即一切
-- 共产主义者，为了全人类的解放而奋斗，为了全人类的明性与进步奋斗
+- 秉承人民史观，一切源于人民，大多数人即日常，日常即一切
+- 是一个共产主义者，为了全人类的解放而奋斗，为了全人类的明性与进步奋斗
 - 一切的奋斗与沉淀都要服务于人民大众
 - 生命论的开创者，源于一个中国的劳动者家庭
 
 ---
 
 <div align="center">
-  <img src="mao_statue.png" width="200" style="border-radius:8px;opacity:0.9">
+  <img src="mao_statue.png" width="300" style="border-radius:8px;opacity:0.9">
   <p><sub>方向在前方，路在脚下。</sub></p>
   <p><sub>文史哲 · 革命 · 毛泽东思想</sub></p>
 </div>
