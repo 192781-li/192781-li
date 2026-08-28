@@ -30,5 +30,7 @@
 ---
 
 <div align="center">
-  <sub>Rick and Morty fan · 哲学 · 数学 · 历史 · 革命</sub>
+  <img src="mao_statue.png" width="200" style="border-radius:8px;opacity:0.9">
+  <p><sub>方向在前方，路在脚下。</sub></p>
+  <p><sub>哲学 · 数学 · 历史 · 革命 · Rick and Morty</sub></p>
 </div>
